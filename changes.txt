@@ -1,0 +1,5 @@
+
+"page1.initialSettings.color": "green"
+"page1.available-filters.name-filter.sort": "asc"
+"page1.available-filters.name-filter.column": "type"
+"page2.test": "works"

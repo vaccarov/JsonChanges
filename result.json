@@ -1,0 +1,20 @@
+{
+  "page1": {
+    "initialSettings": {
+      "position": [
+        10,
+        12
+      ],
+      "color": "green"
+    },
+    "available-filters": {
+      "name-filter": {
+        "column": "type",
+        "sort": "asc"
+      }
+    }
+  },
+  "page2": {
+    "test": "works"
+  }
+}
